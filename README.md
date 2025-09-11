@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [VPN setup within a Virtual Machine](https://github.com/lchristi12/VPN-Setup)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lchristi12/azure-network-protocols)
-  - [Setting up A Vitual Machine and remote access](https://github.com/lchristi12/azure-network-protocols)
+  - [Setting up A Vitual Machine and remote access](https://github.com/lchristi12/VM-remote-access)
 - <b>Active Directory</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/lchristi12/config-ad)
 <h2>🤳Connect with me:</h2>
