@@ -19,4 +19,4 @@
 
 
 
-[linkedin]: www.linkedin.com/in/luis-christie-961b40369
+[linkedin]:www.linkedin.com/in/luis-christie-961b40369
